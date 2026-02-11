@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-slate-50 text-ink-900 antialiased;
+}
+
+.surface-card {
+  @apply bg-white/90 backdrop-blur border border-slate-100 shadow-soft-md rounded-2xl;
+}
+
+.surface-panel {
+  @apply bg-white border border-slate-100 rounded-xl shadow-soft-xl;
+}
