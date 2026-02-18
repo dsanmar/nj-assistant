@@ -28,11 +28,11 @@ Monorepo scaffold with a Next.js frontend and FastAPI backend for the NJDOT Assi
 If you want to use `LLM_PROVIDER=ollama`, install Ollama and pull a model.
 
 **macOS**
-1. Install the Ollama desktop app from the official macOS installer. citeturn0search1
+1. Install the Ollama desktop app from the official macOS installer
 2. Confirm the CLI is available: `ollama --version`
 3. Pull a model: `ollama pull llama3.1`
 
 **Windows**
-1. Install Ollama using the official Windows installer. citeturn0search0
+1. Install Ollama using the official Windows installer.
 2. Confirm the CLI is available: `ollama --version`
 3. Pull a model: `ollama pull llama3.1`
